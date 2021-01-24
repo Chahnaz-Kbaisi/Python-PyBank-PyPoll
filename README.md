@@ -4,9 +4,9 @@ In this two part python analysis, in part I python script is developed for analy
 ## Part-I: PyBank
 
 
-* I creating a Python script for analyzing the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
+* I creating a Python script for analyzing the financial records of a company. To tacle this task, a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv) is provided. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
-* Your task is to create a Python script that analyzes the records to calculate each of the following:
+* I created a Python script that analyzed the records and calculate each of the following:
 
   * The total number of months included in the dataset
 
