@@ -1,10 +1,10 @@
 # Python - Py Me Up, Charlie
 
-In this two part python analysis, in part I python script is developed for analyzing the financial records of th company. 
+This is a two part python analysis, in [Part-I](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyBank) python script is developed for analyzing the financial records of th company. And, in [Part-II](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyPoll) a python script was developed to help a small, rural town modernize its vote counting process.
+
 ## Part-I: PyBank
 
-
-* I creating a Python script for analyzing the financial records of a company. To tacle this task, a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv) is provided. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
+* A Python script was created for analyzing the financial records of a company. To tacle this task, a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv) is provided. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 * I created a Python script that analyzed the records and calculate each of the following:
 
@@ -18,7 +18,7 @@ In this two part python analysis, in part I python script is developed for analy
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-* As an example, your analysis should look similar to the one below:
+* Below is the [output](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/blob/master/PyBank/Analysis/output.csv) analysis:
 
   ```text
   Financial Analysis
@@ -29,8 +29,6 @@ In this two part python analysis, in part I python script is developed for analy
   Greatest Increase in Profits: Feb-2012 ($1926159)
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
-
-* In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 ## Part-II: PyPoll
 
