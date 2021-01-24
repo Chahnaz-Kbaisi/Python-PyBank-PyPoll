@@ -1,12 +1,12 @@
 # Python - Py Me Up, Charlie
 
-This is a two part python analysis, in [Part-I](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyBank) python script is developed for analyzing the financial records of the company. And, in [Part-II](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyPoll) a python script was developed to help a small, rural town modernize its vote counting process.
+This is a two-part python analysis, in [Part-I](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyBank) python script was developed for analyzing the financial records of the company. And, in [Part-II](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyPoll) a python script was developed to help a small, rural town modernize its vote counting process.
 
 ## Part-I: [PyBank](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyBank)
 
-* A Python script was created for analyzing the financial records of a company. To tacle this task, a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv) is provided. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
+* A Python script was created for analyzing the financial records of a company. To tackle this task, a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv) is provided. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
-* I created a Python script that analyzed the records and calculate each of the following:
+* I created a Python script that analyzed the records and calculated each of the following:
 
   * The total number of months included in the dataset
 
@@ -34,7 +34,7 @@ This is a two part python analysis, in [Part-I](https://github.com/Chahnaz-Kbais
 
 * A python script was developed to help a small, rural town modernize its vote counting process.
 
-* A set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv) was provided. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. A Python script was created to analyze the votes and calculates each of the following:
+* A set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv) was provided. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. A Python script was created to analyze the votes and calculate each of the following:
 
   * The total number of votes cast
 
