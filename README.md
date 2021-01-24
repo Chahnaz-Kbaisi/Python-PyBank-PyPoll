@@ -1,8 +1,8 @@
 # Python - Py Me Up, Charlie
 
-This is a two part python analysis, in [Part-I](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyBank) python script is developed for analyzing the financial records of th company. And, in [Part-II](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyPoll) a python script was developed to help a small, rural town modernize its vote counting process.
+This is a two part python analysis, in [Part-I](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyBank) python script is developed for analyzing the financial records of the company. And, in [Part-II](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyPoll) a python script was developed to help a small, rural town modernize its vote counting process.
 
-## Part-I: PyBank
+## Part-I: [PyBank](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyBank)
 
 * A Python script was created for analyzing the financial records of a company. To tacle this task, a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv) is provided. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
@@ -30,13 +30,11 @@ This is a two part python analysis, in [Part-I](https://github.com/Chahnaz-Kbais
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
 
-## Part-II: PyPoll
+## Part-II: [PyPoll](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/tree/master/PyPoll)
 
-![Vote Counting](Images/Vote_counting.png)
+* A python script was developed to help a small, rural town modernize its vote counting process.
 
-* In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
-
-* You will be give a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. Your task is to create a Python script that analyzes the votes and calculates each of the following:
+* A set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv) was provided. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. A Python script was created to analyze the votes and calculates each of the following:
 
   * The total number of votes cast
 
@@ -48,7 +46,7 @@ This is a two part python analysis, in [Part-I](https://github.com/Chahnaz-Kbais
 
   * The winner of the election based on popular vote.
 
-* As an example, your analysis should look similar to the one below:
+* Below is the [output analysis](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/blob/master/PyPoll/Analysis/Output_election.csv):
 
   ```text
   Election Results
@@ -64,12 +62,3 @@ This is a two part python analysis, in [Part-I](https://github.com/Chahnaz-Kbais
   -------------------------
   ```
 
-* In addition, your final script should both print the analysis to the terminal and export a text file with the results.
-
-
-
-  
-
-## Copyright
-
-Trilogy Education Services © 2019. All Rights Reserved.
