@@ -5,12 +5,12 @@ import csv
 # creating the path
 csvpath = os.path.join('Resources', 'budget_data.csv')
 
-# open & read in csvfile
+# Read in the csv and convert it into a list of dictionaries
 with open(csvpath, 'r') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
     csv_header = next(csvfile)
 
-# creating variables for calcualtions
+# Creating variables for calcualtions
     Months = []
     Profit = []
     Losses = []
@@ -49,8 +49,7 @@ with open(csvpath, 'r') as csvfile:
     print("Greatest Decrease in Profits: " + str(Greatest_dec_month) + "($" + str(Greatest_decrease) + ")" )
     print("'''")
       
-# Setting the file to write to outputs
-
+# Exporting the results to text file:
 output_file = os.path.join("Analysis", "output.csv")
 
 
