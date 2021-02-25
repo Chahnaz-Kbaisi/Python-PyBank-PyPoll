@@ -47,7 +47,7 @@ This is a two-part python analysis, in [Part-I](https://github.com/Chahnaz-Kbais
   * The winner of the election based on popular vote.
 
 * Below is the [output analysis](https://github.com/Chahnaz-Kbaisi/Python-PyBank-PyPoll/blob/master/PyPoll/Analysis/Output_election.csv):
-
+***
   ```text
   Election Results
   -------------------------
@@ -61,4 +61,4 @@ This is a two-part python analysis, in [Part-I](https://github.com/Chahnaz-Kbais
   Winner: Khan
   -------------------------
   ```
-
+***
